@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(79, 60, 105);
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+h1{
+    color: whitesmoke;
+}
+iframe {
+    border: 7px dashed rgb(126, 16, 16);
+    border-radius: 6px;
+
+}
+
+a{
+    text-decoration: double;
+    color: bisque;
+}
